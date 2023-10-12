@@ -13,12 +13,12 @@
   "homepage": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/bocacode/mongo01-c12.git"
   },
   "bugs": "",
   "keywords": [],
   "author": {
-    "name": "",
+    "name": "Todd Albert",
     "email": "",
     "url": ""
   },
